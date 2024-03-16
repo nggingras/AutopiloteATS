@@ -69,6 +69,10 @@ To generate the dataset, run the `generateDataset.py` script. This script will c
 ## Train the model
 To train the model, run the "trainDrivingModel.py' script. This script is a Python script that uses the fastai library to train a model for a driving simulator. The model is trained to predict the direction (left, straight, or right) based on the input image.
 Note that the script is also available as a Jupyter Notebook. This is because I recommend you run it from a machine learning cloud services as Kaggle or Colab. Training the AI requires important GPU performances. 
+My current datasets are available in Google drive here: https://drive.google.com/drive/folders/1FGG7YJaUYI8urVIIFzu1SiAEEbr3P-5Z. Download everything and drop them under a data folder 
+  ```
+  .\data\%dataset%
+  ```
 
 ## Reference
 This model is higly based on FastiAi lesssons and https://medium.datadriveninvestor.com/how-i-developed-an-in-game-self-driving-vehicle-using-fast-ai-and-american-truck-simulator-2524891dbaf
