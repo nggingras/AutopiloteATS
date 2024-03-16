@@ -18,6 +18,7 @@ To set up the project environment, follow these steps:
   ```
 
   Here is an example
+   ```
   (base) PS C:\WINDOWS\system32> cd C:\Users\Nicolas\Documents\GitHub\VirtualEnv-Project
 (base) PS C:\Users\Nicolas\Documents\GitHub\VirtualEnv-Project> conda --version
 conda 23.11.0
@@ -52,7 +53,7 @@ Executing transaction: done
 (base) PS C:\Users\Nicolas\Documents\GitHub\VirtualEnv-Project> conda activate venvAutopiloteAts
 (venvAutopiloteAts) PS C:\Users\Nicolas\Documents\GitHub\VirtualEnv-Project>Python -V
 Python 3.11.5
-
+```
 4. Activate the virtual environment:
   ```
   conda activate venvAutopiloteAts
