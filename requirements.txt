@@ -1,0 +1,8 @@
+## Python 3.9
+## Pip 24.0
+
+pandas==2.1.4
+fastai==2.7.14
+opencv-python==4.9.0.80
+mss==9.0.1
+pynput==1.7.6
