@@ -3,9 +3,13 @@
 ## Introduction
 This project aims to develop an autopilot system using machine learning techniques. The system will be trained on a dataset to predict the steering angle of a vehicle based on input images. The game American Truck Simulator is used.
 
-At the moment, the best performance is around 29% error rate. More dataset are needed to improve performance, which means more hours to play the game.
+### Completed ###
+At the moment, the best performance is around 29% error rate. More dataset are needed to improve neural lane detection performance, which means more hours to play the game.
 
-The main driving script is not done yet. 
+### In Pipeline ###
+- Main driving script
+- Object detector
+- Mini map navigation
 
 ## Setup
 To set up the project environment, follow these steps:
